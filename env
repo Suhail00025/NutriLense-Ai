@@ -1,0 +1,8 @@
+# LOCAL MONGODB (From MongoDB Compass)
+MONGO_URI=mongodb://localhost:27017
+
+# GEMINI API KEY
+GEMINI_API_KEY=AIzaSyDiTxJb7M26Lgoo2XsGnIl9V1Rnp9iodh8
+
+# NGROK (Optional - for sharing)
+NGROK_TOKEN=34eVnfGOX2wSD1NNukZFngKPx2u_6MsaWoQKzbLpeYw4wev42
